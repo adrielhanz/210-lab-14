@@ -1,4 +1,4 @@
-// COMSC-210 | Lab 16 | Adriel Chandra
+// COMSC-210 | Lab 14 | Adriel Chandra
 // IDE used: Visual Studio Code
 
 #include <iostream>
